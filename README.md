@@ -28,4 +28,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/pooja-169/Leetcode-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
+## Database
+|  |
+| ------- |
+| [0185-department-top-three-salaries](https://github.com/pooja-169/Leetcode-Solution/tree/master/0185-department-top-three-salaries) |
 <!---LeetCode Topics End-->
