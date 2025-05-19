@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/pooja-169/Leetcode-Solution/tree/master/0189-rotate-array) |
+| [2032-largest-odd-number-in-string](https://github.com/pooja-169/Leetcode-Solution/tree/master/2032-largest-odd-number-in-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -97,4 +98,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/pooja-169/Leetcode-Solution/tree/master/0128-longest-consecutive-sequence) |
+## String
+|  |
+| ------- |
+| [2032-largest-odd-number-in-string](https://github.com/pooja-169/Leetcode-Solution/tree/master/2032-largest-odd-number-in-string) |
+## Greedy
+|  |
+| ------- |
+| [2032-largest-odd-number-in-string](https://github.com/pooja-169/Leetcode-Solution/tree/master/2032-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
