@@ -101,9 +101,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0316-remove-duplicate-letters](https://github.com/pooja-169/Leetcode-Solution/tree/master/0316-remove-duplicate-letters) |
 | [2032-largest-odd-number-in-string](https://github.com/pooja-169/Leetcode-Solution/tree/master/2032-largest-odd-number-in-string) |
 ## Greedy
 |  |
 | ------- |
+| [0316-remove-duplicate-letters](https://github.com/pooja-169/Leetcode-Solution/tree/master/0316-remove-duplicate-letters) |
 | [2032-largest-odd-number-in-string](https://github.com/pooja-169/Leetcode-Solution/tree/master/2032-largest-odd-number-in-string) |
+## Stack
+|  |
+| ------- |
+| [0316-remove-duplicate-letters](https://github.com/pooja-169/Leetcode-Solution/tree/master/0316-remove-duplicate-letters) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0316-remove-duplicate-letters](https://github.com/pooja-169/Leetcode-Solution/tree/master/0316-remove-duplicate-letters) |
 <!---LeetCode Topics End-->
