@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/pooja-169/Leetcode-Solution/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/pooja-169/Leetcode-Solution/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/pooja-169/Leetcode-Solution/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/pooja-169/Leetcode-Solution/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/pooja-169/Leetcode-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Hash Table
 |  |
@@ -30,10 +31,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pooja-169/Leetcode-Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/pooja-169/Leetcode-Solution/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/pooja-169/Leetcode-Solution/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/pooja-169/Leetcode-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Binary Search
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/pooja-169/Leetcode-Solution/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/pooja-169/Leetcode-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Database
 |  |
@@ -49,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/pooja-169/Leetcode-Solution/tree/master/0169-majority-element) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/pooja-169/Leetcode-Solution/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
