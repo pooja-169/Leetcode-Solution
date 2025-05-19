@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/pooja-169/Leetcode-Solution/tree/master/0316-remove-duplicate-letters) |
+| [0812-rotate-string](https://github.com/pooja-169/Leetcode-Solution/tree/master/0812-rotate-string) |
 | [2032-largest-odd-number-in-string](https://github.com/pooja-169/Leetcode-Solution/tree/master/2032-largest-odd-number-in-string) |
 ## Greedy
 |  |
@@ -116,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/pooja-169/Leetcode-Solution/tree/master/0316-remove-duplicate-letters) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/pooja-169/Leetcode-Solution/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
