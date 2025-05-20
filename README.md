@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/pooja-169/Leetcode-Solution/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/pooja-169/Leetcode-Solution/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pooja-169/Leetcode-Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0037-sudoku-solver](https://github.com/pooja-169/Leetcode-Solution/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/pooja-169/Leetcode-Solution/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/pooja-169/Leetcode-Solution/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/pooja-169/Leetcode-Solution/tree/master/0053-maximum-subarray) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/pooja-169/Leetcode-Solution/tree/master/0001-two-sum) |
+| [0037-sudoku-solver](https://github.com/pooja-169/Leetcode-Solution/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/pooja-169/Leetcode-Solution/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/pooja-169/Leetcode-Solution/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/pooja-169/Leetcode-Solution/tree/master/0169-majority-element) |
@@ -131,5 +133,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/pooja-169/Leetcode-Solution/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/pooja-169/Leetcode-Solution/tree/master/0051-n-queens) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/pooja-169/Leetcode-Solution/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
