@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/pooja-169/Leetcode-Solution/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/pooja-169/Leetcode-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0443-string-compression](https://github.com/pooja-169/Leetcode-Solution/tree/master/0443-string-compression) |
+| [0647-palindromic-substrings](https://github.com/pooja-169/Leetcode-Solution/tree/master/0647-palindromic-substrings) |
 ## Binary Search
 |  |
 | ------- |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/pooja-169/Leetcode-Solution/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/pooja-169/Leetcode-Solution/tree/master/0152-maximum-product-subarray) |
+| [0647-palindromic-substrings](https://github.com/pooja-169/Leetcode-Solution/tree/master/0647-palindromic-substrings) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/pooja-169/Leetcode-Solution/tree/master/0049-group-anagrams) |
 | [0316-remove-duplicate-letters](https://github.com/pooja-169/Leetcode-Solution/tree/master/0316-remove-duplicate-letters) |
 | [0443-string-compression](https://github.com/pooja-169/Leetcode-Solution/tree/master/0443-string-compression) |
+| [0647-palindromic-substrings](https://github.com/pooja-169/Leetcode-Solution/tree/master/0647-palindromic-substrings) |
 | [0812-rotate-string](https://github.com/pooja-169/Leetcode-Solution/tree/master/0812-rotate-string) |
 | [2032-largest-odd-number-in-string](https://github.com/pooja-169/Leetcode-Solution/tree/master/2032-largest-odd-number-in-string) |
 ## Greedy
