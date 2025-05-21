@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/pooja-169/Leetcode-Solution/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/pooja-169/Leetcode-Solution/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/pooja-169/Leetcode-Solution/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2257-earliest-possible-day-of-full-bloom](https://github.com/pooja-169/Leetcode-Solution/tree/master/2257-earliest-possible-day-of-full-bloom) |
 ## Hash Table
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/pooja-169/Leetcode-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/pooja-169/Leetcode-Solution/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/pooja-169/Leetcode-Solution/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2257-earliest-possible-day-of-full-bloom](https://github.com/pooja-169/Leetcode-Solution/tree/master/2257-earliest-possible-day-of-full-bloom) |
 ## Two Pointers
 |  |
 | ------- |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/pooja-169/Leetcode-Solution/tree/master/0316-remove-duplicate-letters) |
 | [2032-largest-odd-number-in-string](https://github.com/pooja-169/Leetcode-Solution/tree/master/2032-largest-odd-number-in-string) |
+| [2257-earliest-possible-day-of-full-bloom](https://github.com/pooja-169/Leetcode-Solution/tree/master/2257-earliest-possible-day-of-full-bloom) |
 ## Stack
 |  |
 | ------- |
