@@ -13,11 +13,12 @@ public:
         ans+=count;
         count=0;
         // ith and i+1th character as string.
-        left=i;right=i+1;
-        // if(i+1<n && s[i]==s[i+1]) count++;
+        left=i-1;right=i+2;
+         if(i+1<n && s[i]==s[i+1]){
+             count++;
         while(left>=0 && right<n && s[left--]==s[right++]) count++;
         ans+=count;
-
+         }
         }
     return ans;
     }
