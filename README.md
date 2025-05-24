@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/pooja-169/Leetcode-Solution/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/pooja-169/Leetcode-Solution/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/pooja-169/Leetcode-Solution/tree/master/0503-next-greater-element-ii) |
+| [0937-online-stock-span](https://github.com/pooja-169/Leetcode-Solution/tree/master/0937-online-stock-span) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/pooja-169/Leetcode-Solution/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/pooja-169/Leetcode-Solution/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/pooja-169/Leetcode-Solution/tree/master/0503-next-greater-element-ii) |
+| [0937-online-stock-span](https://github.com/pooja-169/Leetcode-Solution/tree/master/0937-online-stock-span) |
 ## String Matching
 |  |
 | ------- |
@@ -210,4 +212,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0206-reverse-linked-list](https://github.com/pooja-169/Leetcode-Solution/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/pooja-169/Leetcode-Solution/tree/master/0234-palindrome-linked-list) |
+## Design
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/pooja-169/Leetcode-Solution/tree/master/0937-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/pooja-169/Leetcode-Solution/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
