@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/pooja-169/Leetcode-Solution/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/pooja-169/Leetcode-Solution/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/pooja-169/Leetcode-Solution/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/pooja-169/Leetcode-Solution/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/pooja-169/Leetcode-Solution/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/pooja-169/Leetcode-Solution/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/pooja-169/Leetcode-Solution/tree/master/0152-maximum-product-subarray) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/pooja-169/Leetcode-Solution/tree/master/0053-maximum-subarray) |
+| [0085-maximal-rectangle](https://github.com/pooja-169/Leetcode-Solution/tree/master/0085-maximal-rectangle) |
 | [0152-maximum-product-subarray](https://github.com/pooja-169/Leetcode-Solution/tree/master/0152-maximum-product-subarray) |
 | [0647-palindromic-substrings](https://github.com/pooja-169/Leetcode-Solution/tree/master/0647-palindromic-substrings) |
 ## Prefix Sum
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/pooja-169/Leetcode-Solution/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/pooja-169/Leetcode-Solution/tree/master/0085-maximal-rectangle) |
 | [0234-palindrome-linked-list](https://github.com/pooja-169/Leetcode-Solution/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/pooja-169/Leetcode-Solution/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/pooja-169/Leetcode-Solution/tree/master/0496-next-greater-element-i) |
@@ -160,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/pooja-169/Leetcode-Solution/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/pooja-169/Leetcode-Solution/tree/master/0085-maximal-rectangle) |
 | [0316-remove-duplicate-letters](https://github.com/pooja-169/Leetcode-Solution/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/pooja-169/Leetcode-Solution/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/pooja-169/Leetcode-Solution/tree/master/0503-next-greater-element-ii) |
@@ -176,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/pooja-169/Leetcode-Solution/tree/master/0037-sudoku-solver) |
+| [0085-maximal-rectangle](https://github.com/pooja-169/Leetcode-Solution/tree/master/0085-maximal-rectangle) |
 ## Binary Indexed Tree
 |  |
 | ------- |
