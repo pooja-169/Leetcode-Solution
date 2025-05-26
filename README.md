@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/pooja-169/Leetcode-Solution/tree/master/0128-longest-consecutive-sequence) |
+| [0801-is-graph-bipartite](https://github.com/pooja-169/Leetcode-Solution/tree/master/0801-is-graph-bipartite) |
 ## String
 |  |
 | ------- |
@@ -234,11 +235,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/pooja-169/Leetcode-Solution/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/pooja-169/Leetcode-Solution/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/pooja-169/Leetcode-Solution/tree/master/0543-diameter-of-binary-tree) |
+| [0801-is-graph-bipartite](https://github.com/pooja-169/Leetcode-Solution/tree/master/0801-is-graph-bipartite) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/pooja-169/Leetcode-Solution/tree/master/0100-same-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/pooja-169/Leetcode-Solution/tree/master/0199-binary-tree-right-side-view) |
+| [0801-is-graph-bipartite](https://github.com/pooja-169/Leetcode-Solution/tree/master/0801-is-graph-bipartite) |
 ## Binary Tree
 |  |
 | ------- |
@@ -246,4 +249,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/pooja-169/Leetcode-Solution/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/pooja-169/Leetcode-Solution/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/pooja-169/Leetcode-Solution/tree/master/0543-diameter-of-binary-tree) |
+## Graph
+|  |
+| ------- |
+| [0801-is-graph-bipartite](https://github.com/pooja-169/Leetcode-Solution/tree/master/0801-is-graph-bipartite) |
 <!---LeetCode Topics End-->
