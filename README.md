@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/pooja-169/Leetcode-Solution/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/pooja-169/Leetcode-Solution/tree/master/0503-next-greater-element-ii) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/pooja-169/Leetcode-Solution/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [1694-make-sum-divisible-by-p](https://github.com/pooja-169/Leetcode-Solution/tree/master/1694-make-sum-divisible-by-p) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/pooja-169/Leetcode-Solution/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2257-earliest-possible-day-of-full-bloom](https://github.com/pooja-169/Leetcode-Solution/tree/master/2257-earliest-possible-day-of-full-bloom) |
 ## Hash Table
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/pooja-169/Leetcode-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/pooja-169/Leetcode-Solution/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/pooja-169/Leetcode-Solution/tree/master/0496-next-greater-element-i) |
+| [1694-make-sum-divisible-by-p](https://github.com/pooja-169/Leetcode-Solution/tree/master/1694-make-sum-divisible-by-p) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/pooja-169/Leetcode-Solution/tree/master/1741-sort-array-by-increasing-frequency) |
 ## Sorting
 |  |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/pooja-169/Leetcode-Solution/tree/master/0238-product-of-array-except-self) |
+| [1694-make-sum-divisible-by-p](https://github.com/pooja-169/Leetcode-Solution/tree/master/1694-make-sum-divisible-by-p) |
 ## Union Find
 |  |
 | ------- |
