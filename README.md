@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/pooja-169/Leetcode-Solution/tree/master/0043-multiply-strings) |
 | [0189-rotate-array](https://github.com/pooja-169/Leetcode-Solution/tree/master/0189-rotate-array) |
 | [2032-largest-odd-number-in-string](https://github.com/pooja-169/Leetcode-Solution/tree/master/2032-largest-odd-number-in-string) |
 ## Dynamic Programming
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/pooja-169/Leetcode-Solution/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/pooja-169/Leetcode-Solution/tree/master/0049-group-anagrams) |
 | [0316-remove-duplicate-letters](https://github.com/pooja-169/Leetcode-Solution/tree/master/0316-remove-duplicate-letters) |
 | [0443-string-compression](https://github.com/pooja-169/Leetcode-Solution/tree/master/0443-string-compression) |
@@ -256,4 +258,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0801-is-graph-bipartite](https://github.com/pooja-169/Leetcode-Solution/tree/master/0801-is-graph-bipartite) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/pooja-169/Leetcode-Solution/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
